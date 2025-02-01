@@ -1,7 +1,7 @@
 # Ruby-Assembly-Language-Interpreter
 An assembly language interpreter (ALI) for the Simple Assembly Language (SAL), developed with Ruby
 
-This ALI project was created for my Object-Oriented Languages and Environments class, with a primary focus on exploring features of object-oriented programming.
+This ALI project was created for my Object-Oriented Languages and Environments class, with a primary focus on exploring Ruby's symbols, and classes, as well as other features of object-oriented programming.
 
 To use the program, simply follow these steps:
 
